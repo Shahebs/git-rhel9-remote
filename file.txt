@@ -1,4 +1,15 @@
-Hello Candy Arts .. 
-This is a second document pushed on main branch . 
+Devops Tools 
 
-Added the Third line 		
+1)  Linux      -  Completed 
+2)  Ansible    -  Completed     -------->  Operate 
+3)  Containers -  Completed     -------->  Deploy 
+4)  Git        -  Completed     -------->  Code 
+5)  Kubernetes -  In Progress   -------->  Operate 
+
+6)  AWS        -  Pending       -------->  Deploy   
+7)  Nagios     -  Pending       -------->  Monitor 
+8)  Jenkins    -  Pending       -------->  Release  
+9)  Maven      -  Pending       -------->  Build 
+10) Selenium   -  Pending       -------->  Testing  
+
+		
